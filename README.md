@@ -3,7 +3,7 @@ Udacity Programming for Data Science Nanodegree
 
 Additional assistance from the following:
 
-Udacity mentors
+Udacity mentors and Knowledge support
 
 w3school
 https://www.w3schools.com/python
